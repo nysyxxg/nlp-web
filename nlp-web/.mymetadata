@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="nlp-web"
+  id="myeclipse.1428572026609"
+  context-root="/nlp-web"
+  j2ee-spec="6.0"
+  archive="nlp-web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
