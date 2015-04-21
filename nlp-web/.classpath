@@ -10,5 +10,7 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="libs/ansj_seg-1.0.alpha.jar"/>
+	<classpathentry kind="lib" path="libs/tree_split-1.0.1.jar"/>
 	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
 </classpath>
